@@ -12,8 +12,12 @@ Dataset Link : https://www.kaggle.com/datasets/dhirajbembade/indian-airlines-tic
 
 ### Dashboard Features:
 **About Project:** This section provides an overview of the project, its objectives, and data sources. Users can learn more about the methodology used in analyzing the flight data and the scope of insights provided.
+
 **Flights Details:** Here, users can explore the details of all available flights. By selecting a specific source and destination, the dashboard will display relevant information, including the airline name, flight class, and average ticket price. This feature enables users to compare and analyze flight options based on their preferences.
+
 **Analysis:** The analysis section presents interactive visualizations and charts, highlighting key trends and patterns found in the flight data. Users can interact with various graphs to explore factors influencing ticket prices, popular airlines, busy flight routes, and much more.
+
+
 ### Disclaimer:
 The insights and visualizations presented in this dashboard are for informational and illustrative purposes only. While we strive for accuracy and reliability, we cannot guarantee the absolute correctness of the data. Users are advised to use their discretion and corroborate information from other sources when making any critical decisions based on the insights presented in this dashboard.
 
