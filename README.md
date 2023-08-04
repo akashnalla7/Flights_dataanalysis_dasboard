@@ -1,4 +1,4 @@
-# Flights_dataanalysis_dasboard
+# Flights_data_analysis_dasboard
 
 Welcome to the Flight Data Analysis Dashboard, where we explore fascinating insights into the flights operating in India! This project aims to provide a comprehensive analysis of various aspects of flights, including airlines, ticket prices, and routes, to help users gain valuable insights and make informed decisions.
 
